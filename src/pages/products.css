@@ -1,4 +1,21 @@
 
-.title {
+/* .title {
   background: rgb(191, 121, 242);
+} */
+
+.logo {
+  height: 48px;
+  width: 48px !important;
+  margin: 16px;
+  /* background: rgba(255, 255, 255, 0.3); */
+  display: flex;
+  justify-content: center;
+}
+
+.nameLogo{
+  color: azure !important;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
 }
