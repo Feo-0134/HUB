@@ -6,7 +6,7 @@ export default defineConfig({
   },
   locale: {antd: true},
   routes: [
-    { path: '/', component: '@/pages/index' },
-    { path: '/products', component: '@/pages/products' },
+    { path: '/products', component: '@/pages/index' },
+    { path: '/', component: '@/pages/products' },
   ],
 });
